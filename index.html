@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Encriptador</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<h1 class="titulo">Encriptador</h1>
+
+		<div class="main">
+			<div class="form box">
+				<form action="">
+					<textarea
+						class="text-input"
+						type="text"
+						name="input-texto"
+						id="input-texto"
+						placeholder="Ingrese el texto aqui. Solo letras minúsculas, sin acento"
+					></textarea>
+					<div id="botonera">
+						<input
+							class="btn"
+							type="button"
+							value="Encriptar"
+							id="btn-encriptar"
+						/>
+						<input
+							class="btn"
+							type="button"
+							value="Desencriptar"
+							id="btn-desencriptar"
+						/>
+					</div>
+				</form>
+			</div>
+
+			<div class="msg box">
+				<h2 id="Mensaje">Mensaje encriptado:</h2>
+				<input class="text-input-salida" type="text" id="msg" readonly />
+				<input class="btn" type="button" value="Copiar" id="btn-copy" />
+			</div>
+		</div>
+		<script src="script.js"></script>
+		<script src="copiar-pegar.js"></script>
+	</body>
+</html>
