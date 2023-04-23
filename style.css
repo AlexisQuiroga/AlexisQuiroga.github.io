@@ -35,10 +35,8 @@ h2 {
 }
 #btn-copy {
 	margin-left: 50%;
-	/* background-color: transparent; */
-	background-image: url(/image/botones/copia-de-datos.png);
-	height: 40px;
-	width: 40px;
+
+
 }
 
 textarea {
