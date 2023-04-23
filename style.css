@@ -33,6 +33,13 @@ h2 {
 	color: #eef0f4c2;
 	text-align: center;
 }
+#btn-copy {
+	margin-left: 50%;
+	/* background-color: transparent; */
+	background-image: url(/image/botones/copia-de-datos.png);
+	height: 40px;
+	width: 40px;
+}
 
 textarea {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -89,10 +96,6 @@ textarea:focus {
 .msg {
 	display: inline-block;
 	width: 45%;
-}
-#btn-copy {
-	margin-left: 50%;
-	background-color: transparent;
 }
 
 #botonera {
