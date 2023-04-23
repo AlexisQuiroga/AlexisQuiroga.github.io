@@ -126,7 +126,7 @@ textarea:focus {
 	cursor: pointer;
 }
 
-.text-input-salida img {
+#btn-copy img {
 	width: 10%;
 	height: auto;
 	margin-left: 20%;
