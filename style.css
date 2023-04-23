@@ -112,7 +112,7 @@ textarea:focus {
 
 
 #btn-copy {
-	background-image: url('/image/copiar.png');
+	background-image: url('https://cdn.pixabay.com/photo/2022/11/05/03/36/copy-7571066_1280.png');
 	background-color: transparent;
 	background-repeat: no-repeat;
 	background-position: center;
