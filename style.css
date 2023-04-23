@@ -101,17 +101,6 @@ textarea:focus {
 	width: 45%;
 }
 
-.text-input-salida {
-	border: none;
-	background-color: transparent;
-	cursor: pointer;
-}
-
-.text-input-salida img {
-	width: 10%;
-	height: auto;
-	margin-left: 20%;
-}
 
 #botonera {
 	text-align: center;
@@ -129,6 +118,18 @@ textarea:focus {
 		width: 100%;
 		margin: 10px 0;
 	}
+}
+
+.text-input-salida {
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+}
+
+.text-input-salida img {
+	width: 10%;
+	height: auto;
+	margin-left: 20%;
 }
 
 footer {
