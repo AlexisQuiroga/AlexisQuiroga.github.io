@@ -120,7 +120,7 @@ textarea:focus {
 	}
 }
 
-.text-input-salida {
+#btn-copy{
 	border: none;
 	background-color: transparent;
 	cursor: pointer;
