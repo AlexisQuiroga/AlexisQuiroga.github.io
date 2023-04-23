@@ -86,10 +86,10 @@ textarea:focus {
 	width: 45%;
 }
 
-/* msg {
+.msg {
 	display: inline-block;
 	width: 45%;
-} */
+}
 
 #botonera {
 	text-align: center;
