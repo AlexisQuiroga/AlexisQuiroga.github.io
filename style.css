@@ -97,6 +97,8 @@ textarea:focus {
 
 .boton {
 	margin-left: 50%;
+	background-color: transparent;
+	border: none;
 }
 
 .main {
