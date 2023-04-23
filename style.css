@@ -33,16 +33,7 @@ h2 {
 	color: #eef0f4c2;
 	text-align: center;
 }
-/*  */
 
-/*  */
-/* #btn-copy {
-	margin-left: 50%;
-	/* background-color: transparent; */
-	/* background-image: url(/image/botones/copia-de-datos.png); */
-	/* height: 40px;
-	width: 40px; */
-/* } */
 
 textarea {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -101,7 +92,6 @@ textarea:focus {
 	width: 45%;
 }
 
-
 #botonera {
 	text-align: center;
 }
@@ -120,20 +110,10 @@ textarea:focus {
 	}
 }
 
-/* #btn-copy{
-	border: none;
-	background-color: transparent;
-	cursor: pointer;
-}
-
-#btn-copy img {
-	width: 10%;
-	height: auto;
-	margin-left: 20%;
-} */
 
 #btn-copy {
-	background-image: url('/image/iconos/copia-de-datos.png');
+	background-image: url('/image/copiar.png');
+	background-color: transparent;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
@@ -141,7 +121,8 @@ textarea:focus {
 	cursor: pointer;
 	height: 30px;
 	width: 30px;
-  }
+	margin-left: 50%;
+}
 
 footer {
 	color: #afbaf9;
