@@ -90,15 +90,13 @@ textarea:focus {
 	display: inline-block;
 	width: 45%;
 }
+#btn-copy {
+	margin-left: 50%;
+	background-color: transparent;
+}
 
 #botonera {
 	text-align: center;
-}
-
-.boton {
-	margin-left: 50%;
-	background-color: transparent;
-	border: none;
 }
 
 .main {
