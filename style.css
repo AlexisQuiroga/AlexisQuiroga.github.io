@@ -120,7 +120,7 @@ textarea:focus {
 	}
 }
 
-#btn-copy{
+/* #btn-copy{
 	border: none;
 	background-color: transparent;
 	cursor: pointer;
@@ -130,7 +130,18 @@ textarea:focus {
 	width: 10%;
 	height: auto;
 	margin-left: 20%;
-}
+} */
+
+#btn-copy {
+	background-image: url('/image/botones/copiar.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	border: none;
+	cursor: pointer;
+	height: 30px;
+	width: 30px;
+  }
 
 footer {
 	color: #afbaf9;
