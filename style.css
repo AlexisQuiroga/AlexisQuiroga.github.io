@@ -120,6 +120,7 @@ footer {
 	text-align: center;
 }
 .copyright {
+	margin-top: 1rem ;
 	font-size: 12px;
 	color: #f1f1f897;
 	font-style: italic;
