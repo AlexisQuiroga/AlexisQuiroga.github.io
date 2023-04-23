@@ -133,7 +133,7 @@ textarea:focus {
 } */
 
 #btn-copy {
-	background-image: url('/image/botones/copiar.png');
+	background-image: url('/image/iconos/copia-de-datos.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
