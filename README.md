@@ -4,8 +4,7 @@ Este es un proyecto educativo para el curso de Alura, en el cual se desarrolló 
 
 # Como usar
 
-Puedes acceder al encriptador de texto en línea desde el siguiente enlace Encriptador de palabras.
-También puedes descargar el código fuente de este repositorio y abrir el archivo index.html en tu navegador.
+Puedes descargar el código fuente de este repositorio y abrir el archivo index.html en tu navegador.
 Para encriptar un texto, simplemente escribe el texto en el cuadro de entrada y haz clic en el botón "Encriptar". El texto encriptado se mostrará en el cuadro de salida.
 Para desencriptar un texto encriptado, escribe el texto encriptado en el cuadro de entrada y haz clic en el botón "Desencriptar". El texto desencriptado se mostrará en el cuadro de salida.
 
