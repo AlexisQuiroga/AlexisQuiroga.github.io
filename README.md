@@ -14,11 +14,13 @@ Nota: Este encriptador de texto solo admite letras minúsculas y espacios en el 
 # Como funciona
 
 El encriptador de texto reemplaza las vocales por otras palabras según el siguiente mapeo:
+
 ■ "e": "enter"
 ■ "i": "imes"
 ■ "a": "ai"
 ■ "o": "ober"
 ■ "u": "ufat"
+
 Para encriptar un texto, se reemplazan todas las vocales en el texto de entrada por las palabras correspondientes según el mapeo.
 Para desencriptar un texto encriptado, se reemplazan las palabras en el texto encriptado por las vocales correspondientes según el mapeo.
 
