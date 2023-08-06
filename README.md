@@ -2,7 +2,7 @@
 
 Este es un proyecto educativo para el curso de Alura, en el cual se desarrolló una herramienta para encriptar y desencriptar texto utilizando una técnica simple de sustitución de vocales por palabras clave.Fue creado con HTML, CSS y JavaScript.
 
-# Cómo usar
+# Como usar
 
 Puedes acceder al encriptador de texto en línea desde el siguiente enlace Encriptador de palabras.
 También puedes descargar el código fuente de este repositorio y abrir el archivo index.html en tu navegador.
@@ -11,7 +11,7 @@ Para desencriptar un texto encriptado, escribe el texto encriptado en el cuadro 
 
 Nota: Este encriptador de texto solo admite letras minúsculas y espacios en el texto de entrada. Si se ingresan mayúsculas o caracteres especiales, se mostrará un mensaje de error.
 
-# Cómo funciona
+# Como funciona
 
 El encriptador de texto reemplaza las vocales por otras palabras según el siguiente mapeo:
 ■ "e": "enter"
